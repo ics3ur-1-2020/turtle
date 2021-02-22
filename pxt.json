@@ -2,8 +2,7 @@
     "name": "Turtle",
     "description": "",
     "dependencies": {
-        "device": "*",
-        "screen-turtle": "github:microsoft/pxt-screen-turtle#v0.1.2"
+        "device": "*"
     },
     "files": [
         "main.blocks",
@@ -13,7 +12,8 @@
         "images.g.jres",
         "images.g.ts",
         "main.py",
-        "turtle_tutorial.md"
+        "turtle_tutorial.md",
+        "_locales/en-CA/turtle_tutorial.md"
     ],
     "testFiles": [
         "test.ts"
